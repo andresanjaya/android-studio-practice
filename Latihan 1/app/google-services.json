@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569226548013",
+    "project_id": "andventure-4af92",
+    "storage_bucket": "andventure-4af92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569226548013:android:2f62ccac6565b7ccd0f9a4",
+        "android_client_info": {
+          "package_name": "com.material.components"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569226548013-v966ip0qedftpoq53sk76439r4paf0i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv05ZmeukSDPPec8IuAZVsJkdC2mOd_Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569226548013-v966ip0qedftpoq53sk76439r4paf0i2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
